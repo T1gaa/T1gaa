@@ -1,6 +1,6 @@
 ## Hi there 👋
-<a[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T1gaa)](https://github.com/anuraghazra/github-readme-stats)></a>
-<a[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1gaa)](https://github.com/anuraghazra/github-readme-stats)></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T1gaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1gaa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
