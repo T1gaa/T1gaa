@@ -1,4 +1,11 @@
 ## Hi there 👋
+- 🌱 I’m currently studying Computer Engineering @UniversidadeDoMinho
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/_tigaa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joaolrsilva/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/joaolrsilva98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+</p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T1gaa)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1gaa)](https://github.com/anuraghazra/github-readme-stats)
 
