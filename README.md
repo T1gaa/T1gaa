@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently studying Computer Engineering @UniversidadeDoMinho
+- 🌱 I’m currently studying Cyber Security @UniversidadeDoMinho
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://x.com/_tigaa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
