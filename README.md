@@ -7,11 +7,6 @@
 <a href="https://www.instagram.com/joaolrsilva98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40"/></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T1gaa)](https://github.com/anuraghazra/github-readme-stats)
-<p></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1gaa)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **T1gaa/T1gaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
